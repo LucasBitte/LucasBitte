@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0A1628&height=140&text=Lucas%20Bittencourt&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0F4FF&height=140&text=Lucas%20Bittencourt&fontColor=0A1628&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&text=Lucas%20Bittencourt&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=58&descSize=16&descColor=B8D4F8&animation=fadeIn" width="100%" />
 
 <br/><br/>
 
@@ -26,7 +23,7 @@ Sou **Data AI Engineer**, um profissional com **+10 anos de experiência prátic
 
 ## 🎓 Formação & Certificações
 
-- 🎓 **Tecnólogo em Ciência de Dados** · *FIAP* (`2025 – 2026`)
+- 🎓 **Tecnólogo em Ciência de Dados** · *FIAP* 
 - 📜 **Data Engineering Professional Certificate** · *DeepLearning.AI (4-Course Series) on AWS*
 - 📜 **Google Advanced Data Analytics Professional Certificate** · *(7-Course Series)*
 - 📜 **Formação Python para Data Science** · *(8-Course Series)*
