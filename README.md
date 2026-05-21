@@ -17,7 +17,7 @@
 
 ## 👋 Sobre mim
 Sou **Data AI Engineer**  
-Profissional com **+10 anos de experiência prática **  unindo dados, tecnologia e estratégia de negócios, transitando para Engenharia de Dados e IA. 
+Profissional com ** +10 anos de experiência prática **  unindo dados, tecnologia e estratégia de negócios, transitando para Engenharia de Dados e IA. 
 
 Tenho uma visão "dos dois lados da mesa": já atuei em vendas, marketing, operações e dados dentro da mesma empresa — o que me permite construir soluções que fazem sentido para o negócio, não apenas para a arquitetura.
 
