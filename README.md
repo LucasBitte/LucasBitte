@@ -1,11 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0A1628&height=140&text=Lucas%20Bittencourt&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0F4FF&height=140&text=Lucas%20Bittencourt&fontColor=0A1628&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
-</picture>
+<img src="https://raw.githubusercontent.com/LucasBitte/LucasBitte/main/header.svg" width="100%" alt="Lucas Bittencourt — Engenheiro de Dados" />
 
-<br/>
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/lucas.p.bittencourt@gmail.com-0A1628?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:lucas.p.bittencourt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/lucas-bittencourt-6a26b3158)
@@ -15,20 +12,11 @@
 
 ---
 
-## 👋 Sobre mim
-Sou **Data AI Engineer**  
-Profissional com ** +10 anos de experiência prática **  unindo dados, tecnologia e estratégia de negócios, transitando para Engenharia de Dados e IA. 
+## Perfil Profissional
+
+Profissional com **+10 anos de experiência** em liderança operacional, transitando para Engenharia de Dados e IA. Minha base em gestão permite traduzir dores de negócio — vendas, logística, marketing — em soluções técnicas de alto impacto utilizando **Python, SQL e Power BI**.
 
 Tenho uma visão "dos dois lados da mesa": já atuei em vendas, marketing, operações e dados dentro da mesma empresa — o que me permite construir soluções que fazem sentido para o negócio, não apenas para a arquitetura.
-
----
-
-## 🚀 Projetos Reais
-
-### 🟡 AIOps para Predição de Incidentes — FIAP Challenge × Locaweb
-> **Python · Machine Learning · Jupyter Notebook**
-
-Solução de AIOps para antecipação de incidentes operacionais com análise de OLA e recomendações práticas. Desenvolvido no contexto do Challenge FIAP em parceria com a Locaweb.
 
 ---
 
@@ -64,6 +52,38 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 **Metodologias**
 
 ![Agile](https://img.shields.io/badge/Agile%20Scrum%2FKanban-0A1628?style=flat-square&logo=jira&logoColor=0052CC)
+
+---
+
+## Experiência Profissional
+
+**Consultor Independente** &nbsp;·&nbsp; `fev 2025 – atual`
+
+Atuação como braço estratégico para stakeholders, transformando dores de negócio em requisitos técnicos e pipelines de dados escaláveis.
+
+---
+
+**Analista de Dados** &nbsp;·&nbsp; Cabral & Sousa &nbsp;·&nbsp; `fev 2025 – fev 2026`
+
+- Liderança na criação de soluções de dados que direcionam estratégia e automatizam processos financeiros críticos
+- Automação comercial com **Power BI + Microsoft Fabric** para cálculo e distribuição de comissões
+- Criação de KPIs estratégicos para Logística e Transporte como arquiteto de dados junto à liderança
+- Redução drástica de erros humanos e otimização do tempo de processamento de informações
+
+---
+
+**Gerente Operacional** &nbsp;·&nbsp; Cabral & Sousa &nbsp;·&nbsp; `jun 2021 – fev 2025`
+
+- Criação de processos de auditoria e coleta de dados para avaliação de desempenho financeiro
+- Desenvolvimento de painéis para visualizar ROI de ações de marketing e performance da equipe
+- Coordenação de Merchandising com base sólida em conhecimento de mercado B2B/B2C
+
+---
+
+**Gestão e Vendas** &nbsp;·&nbsp; Cabral & Sousa &nbsp;·&nbsp; `2012 – 2021`
+
+- KPIs ligando execução de campo a resultados financeiros
+- Vendas, coordenação de Merchandising e relacionamento B2B/B2C
 
 ---
 
