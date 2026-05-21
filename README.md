@@ -4,18 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C8F0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:lucas.p.bittencourt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/lucas-bittencourt-6a26b3158">
-    <img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/LucasBitte">
-    <img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 </div>
@@ -69,4 +57,19 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 **Cloud & Infraestrutura:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-00C8F0?style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) | ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square)
 
 **Metodologias:** ![Agile](https://img.shields.io/badge/Agile%20(Scrum%2FKanban)-0052CC?style=flat-square)
+
+---
+
+<p align="center">
+  <a href="mailto:lucas.p.bittencourt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/lucas-bittencourt-6a26b3158">
+    <img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LucasBitte">
+    <img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+</p>
+
 
