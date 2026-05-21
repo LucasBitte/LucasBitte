@@ -60,40 +60,13 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 
 ## 🛠️ Stack Técnico
 
-<div align="center">
+**Linguagens:** `Python (Pandas, NumPy, Scikit-learn)` | `SQL` | `DAX` | `M (Power Query)`
 
-### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-<img width="12" />
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="DAX" />
-<img width="12" />
-<img src="https://img.shields.io/badge/M_Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="M Power Query" />
+**Engenharia de Dados:** `dbt` | `Apache Airflow` | `Ingestão de APIs` | `Automação de Pipelines`
 
-### Engenharia de Dados
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="30" alt="dbt" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="30" alt="Airflow" />
-<img width="12" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="FastAPI" />
-<img width="12" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" alt="GitHub Actions" />
+**BI & Visualização:** `Power BI (Especialista)` | `Streamlit (para Apps de Dados)` | `Looker Studio`
 
-### BI & Visualização
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="Streamlit" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="30" alt="Looker Studio" />
+**Cloud & Infraestrutura:** `Microsoft Fabric` | `AWS` | `Docker` | `Git/GitHub`
 
-### Cloud & Infra
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="30" alt="AWS" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-00C8F0?style=for-the-badge&logo=microsoft&logoColor=white" height="30" alt="Microsoft Fabric" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+**Metodologias:** `Agile (Scrum/Kanban)`
 
-</div>
