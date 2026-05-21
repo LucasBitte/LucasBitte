@@ -1,7 +1,10 @@
 <div align="center">
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00C8F0&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
+  <br/>
+  <br/>
+  <h1 style="color: #0A1628; margin-bottom: 0; font-size: 32px;">Lucas Bittencourt</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C8F0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
+  <br/>
 </div>
 
 ## 👋 Sobre mim
