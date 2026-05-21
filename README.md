@@ -18,23 +18,30 @@ Tenho uma visão "dos dois lados da mesa": já atuei em vendas, marketing, opera
 
 ## 🧠 Stack Técnico
 
-### Data Engineering & Analytics
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=00C8F0)
+![SQL](https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=databricks&logoColor=00C8F0)
+![DAX](https://img.shields.io/badge/DAX-0A1628?style=for-the-badge&logo=microsoft&logoColor=1E6FD9)
+![M](https://img.shields.io/badge/M%20(Power%20Query)-0A1628?style=for-the-badge&logo=microsoft&logoColor=00C8F0)
+
+### Engenharia de Dados
 ![dbt](https://img.shields.io/badge/dbt-0A1628?style=for-the-badge&logo=dbt&logoColor=FF694B)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-0A1628?style=for-the-badge&logo=apacheairflow&logoColor=00C8F0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Docker](https://img.shields.io/badge/Docker-0A1628?style=for-the-badge&logo=docker&logoColor=2496ED)
+![APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-0A1628?style=for-the-badge&logo=fastapi&logoColor=00C8F0)
 
-### Business Intelligence
+### BI & Visualização
 ![Power BI](https://img.shields.io/badge/Power%20BI-0A1628?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![DAX](https://img.shields.io/badge/DAX-0A1628?style=for-the-badge&logo=microsoft&logoColor=1E6FD9)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=for-the-badge&logo=microsoft&logoColor=00C8F0)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-0A1628?style=for-the-badge&logo=powerapps&logoColor=742774)
+![Streamlit](https://img.shields.io/badge/Streamlit-0A1628?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0A1628?style=for-the-badge&logo=looker&logoColor=4285F4)
 
-### AI & Agentes Inteligentes
-![LangGraph](https://img.shields.io/badge/LangGraph-0A1628?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![pgvector](https://img.shields.io/badge/pgvector-0A1628?style=for-the-badge&logo=postgresql&logoColor=00C8F0)
-![n8n](https://img.shields.io/badge/n8n-0A1628?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+### Cloud & Infraestrutura
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=for-the-badge&logo=microsoft&logoColor=00C8F0)
+![AWS](https://img.shields.io/badge/AWS-0A1628?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0A1628?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git%2FGitHub-0A1628?style=for-the-badge&logo=github&logoColor=ffffff)
+
+### Metodologias
+![Agile](https://img.shields.io/badge/Agile%20(Scrum%2FKanban)-0A1628?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 ---
 
