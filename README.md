@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Lucas Bittencourt
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0A1628&height=140&text=Lucas%20Bittencourt&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0F4FF&height=140&text=Lucas%20Bittencourt&fontColor=0A1628&fontSize=38&fontAlignY=45&desc=Engenheiro%20de%20Dados%20%E2%80%A2%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=68&descSize=14&descColor=1E6FD9&stroke=1E6FD9&strokeWidth=2&animation=blinking" />
+</picture>
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C8F0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
 
@@ -26,8 +31,6 @@ Sou **Data AI Engineer**, um profissional com **+10 anos de experiência prátic
 - 📜 **Google Advanced Data Analytics Professional Certificate** · *(7-Course Series)*
 - 📜 **Formação Python para Data Science** · *(8-Course Series)*
 - 📜 **Formação Power BI** · *(8-Course Series)*
-
-<br/>
 
 <br/>
 
@@ -70,5 +73,3 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
     <img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 </p>
-
-
