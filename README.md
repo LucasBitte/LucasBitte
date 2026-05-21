@@ -33,36 +33,49 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 
 ## Stack Técnico
 
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00C8F0)
-![SQL](https://img.shields.io/badge/SQL-0A1628?style=flat-square&logo=postgresql&logoColor=336791)
-![DAX](https://img.shields.io/badge/DAX-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-![M Power Query](https://img.shields.io/badge/M%20Power%20Query-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-
-**Engenharia de Dados**
-
-![dbt](https://img.shields.io/badge/dbt-0A1628?style=flat-square&logo=dbt&logoColor=FF694B)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-0A1628?style=flat-square&logo=apacheairflow&logoColor=017CEE)
-![APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-0A1628?style=flat-square&logo=fastapi&logoColor=009688)
-![Automação](https://img.shields.io/badge/Automação%20de%20Pipelines-0A1628?style=flat-square&logo=githubactions&logoColor=2088FF)
-
-**BI & Visualização**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Streamlit](https://img.shields.io/badge/Streamlit-0A1628?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0A1628?style=flat-square&logo=looker&logoColor=4285F4)
-
-**Cloud & Infraestrutura**
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=flat-square&logo=microsoft&logoColor=00C8F0)
-![AWS](https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git%2FGitHub-0A1628?style=flat-square&logo=github&logoColor=ffffff)
-
-**Metodologias**
-
-![Agile](https://img.shields.io/badge/Agile%20Scrum%2FKanban-0A1628?style=flat-square&logo=jira&logoColor=0052CC)
+<table width="100%">
+  <tr>
+    <td width="22%" valign="top"><b>Linguagens</b></td>
+    <td valign="top">
+      ![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00C8F0)
+      ![SQL](https://img.shields.io/badge/SQL-0A1628?style=flat-square&logo=postgresql&logoColor=336791)
+      ![DAX](https://img.shields.io/badge/DAX-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
+      ![M Power Query](https://img.shields.io/badge/M%20Power%20Query-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Engenharia de Dados</b></td>
+    <td valign="top">
+      ![dbt](https://img.shields.io/badge/dbt-0A1628?style=flat-square&logo=dbt&logoColor=FF694B)
+      ![Airflow](https://img.shields.io/badge/Apache%20Airflow-0A1628?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+      ![APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-0A1628?style=flat-square&logo=fastapi&logoColor=009688)
+      ![Automação](https://img.shields.io/badge/Automação%20de%20Pipelines-0A1628?style=flat-square&logo=githubactions&logoColor=2088FF)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>BI & Visualização</b></td>
+    <td valign="top">
+      ![Power BI](https://img.shields.io/badge/Power%20BI-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
+      ![Streamlit](https://img.shields.io/badge/Streamlit-0A1628?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+      ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0A1628?style=flat-square&logo=looker&logoColor=4285F4)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Cloud & Infra</b></td>
+    <td valign="top">
+      ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=flat-square&logo=microsoft&logoColor=00C8F0)
+      ![AWS](https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+      ![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=2496ED)
+      ![Git](https://img.shields.io/badge/Git%2FGitHub-0A1628?style=flat-square&logo=github&logoColor=ffffff)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Metodologias</b></td>
+    <td valign="top">
+      ![Agile](https://img.shields.io/badge/Agile%20Scrum%2FKanban-0A1628?style=flat-square&logo=jira&logoColor=0052CC)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,6 +88,21 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 📜 &nbsp;Formação Python para Data Science (8-Course Series)  
 📜 &nbsp;Formação Power BI (8-Course Series)
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LucasBitte&show_icons=true&theme=dark&bg_color=0A1628&title_color=1E6FD9&icon_color=00C8F0&text_color=B8D4F8&border_color=1E3A5F&count_private=true" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitte&layout=compact&theme=dark&bg_color=0A1628&title_color=1E6FD9&text_color=B8D4F8&border_color=1E3A5F" />
+
+</div>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=LucasBitte&color=1E6FD9&style=flat-square&label=profile+views)
 
 </div>
 
