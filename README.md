@@ -40,34 +40,6 @@ Tenho uma visão "dos dois lados da mesa": já atuei em vendas, marketing, opera
 
 ## 🚀 Projetos Reais
 
-### 🔵 Pipeline de Comissões Automatizado
-> **Python · Microsoft Graph API · SharePoint · Power BI**
-
-Pipeline end-to-end que substitui processos manuais em planilhas. Coleta dados via API, processa regras de comissionamento e entrega dashboards com RLS por vendedor — eliminando horas de trabalho manual mensalmente.
-
----
-
-### 🔵 Agente Text-to-SQL com RAG
-> **LangGraph · pgvector · PostgreSQL · Python**
-
-Agente conversacional que interpreta perguntas em linguagem natural e gera queries SQL com contexto semântico. Utiliza embeddings vetoriais para recuperar o esquema relevante antes de gerar a consulta.
-
----
-
-### 🔵 Data Warehouse com Arquitetura Medallion
-> **dbt · Apache Airflow · PostgreSQL · Docker**
-
-Warehouse completo com camadas Bronze → Silver → Gold, orquestrado via Airflow em ambiente Docker. Modelos dbt com testes de qualidade e documentação automática.
-
----
-
-### 🔵 Dashboard Operacional com RLS Dinâmico
-> **Power BI · DAX · Oracle SQL**
-
-Dashboard com Row-Level Security dinâmico por hierarquia organizacional. Inclui métricas de OTIF, shelf-life e fluxo financeiro integrado ao ERP Winthor/TOTVS.
-
----
-
 ### 🟡 AIOps para Predição de Incidentes — FIAP Challenge × Locaweb
 > **Python · Machine Learning · Jupyter Notebook**
 
@@ -92,22 +64,10 @@ A Looply AI integra **agentes de IA, pipelines de dados e inteligência comercia
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasBitte&show_icons=true&theme=dark&bg_color=0A1628&title_color=1E6FD9&icon_color=00C8F0&text_color=B8D4F8&border_color=1E6FD9&hide_border=false&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitte&layout=compact&theme=dark&bg_color=0A1628&title_color=1E6FD9&text_color=B8D4F8&border_color=1E6FD9&hide_border=false" />
-
-</div>
-
----
-
 ## 🎓 Formação
 
 - 📘 **Ciência de Dados** — FIAP *(conclusão prevista: 2026)*
-- 📗 **8+ anos** de experiência em dados, operações e estratégia de negócios
+- 📗 **10+ anos** de experiência em dados, operações e estratégia de negócios
 
 ---
 
