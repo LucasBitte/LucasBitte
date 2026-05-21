@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C8F0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
 
 ---
-
 </div>
 
 ## 👋 Sobre mim
@@ -38,7 +37,7 @@ Sou **Data AI Engineer**, um profissional com **+10 anos de experiência prátic
 <summary><b>🟡 AIOps para Predição de Incidentes — FIAP Challenge × Locaweb</b></summary>
 <br>
 
-**Tecnologias:** `Python` | `Machine Learning` | `Jupyter Notebook`
+**Tecnologias:** `AWS` |`Python` | `Machine Learning` | `Jupyter Notebook`
 
 Solução de AIOps para antecipação de incidentes operacionais com análise de OLA e recomendações práticas. Desenvolvido no contexto do Challenge FIAP em parceria com a Locaweb. Focado em transformar logs e dados operacionais em previsibilidade e ação.
 
