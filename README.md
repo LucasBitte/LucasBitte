@@ -60,13 +60,13 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 
 ## 🛠️ Stack Técnico
 
-**Linguagens:** `Python (Pandas, NumPy, Scikit-learn)` | `SQL` | `DAX` | `M (Power Query)`
+**Linguagens:** ![Python](https://img.shields.io/badge/Python%20(Pandas,%20NumPy,%20Scikit--learn)-3776AB?style=flat-square) | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) | ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square) | ![M (Power Query)](https://img.shields.io/badge/M%20(Power%20Query)-F2C811?style=flat-square)
 
-**Engenharia de Dados:** `dbt` | `Apache Airflow` | `Ingestão de APIs` | `Automação de Pipelines`
+**Engenharia de Dados:** ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square) | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square) | ![Ingestão de APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-009688?style=flat-square) | ![Automação de Pipelines](https://img.shields.io/badge/Automação%20de%20Pipelines-2088FF?style=flat-square)
 
-**BI & Visualização:** `Power BI (Especialista)` | `Streamlit (para Apps de Dados)` | `Looker Studio`
+**BI & Visualização:** ![Power BI](https://img.shields.io/badge/Power%20BI%20(Especialista)-F2C811?style=flat-square) | ![Streamlit](https://img.shields.io/badge/Streamlit%20(para%20Apps%20de%20Dados)-FF4B4B?style=flat-square) | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square)
 
-**Cloud & Infraestrutura:** `Microsoft Fabric` | `AWS` | `Docker` | `Git/GitHub`
+**Cloud & Infraestrutura:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-00C8F0?style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) | ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square)
 
-**Metodologias:** `Agile (Scrum/Kanban)`
+**Metodologias:** ![Agile](https://img.shields.io/badge/Agile%20(Scrum%2FKanban)-0052CC?style=flat-square)
 
