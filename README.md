@@ -1,12 +1,7 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A1628&height=180&text=Lucas%20Bittencourt&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Dados%20%7C%20Especialista%20em%20Pipelines%20%26%20Analytics&descAlignY=58&descSize=16&descColor=00C8F0&animation=fadeIn&stroke=1E6FD9&strokeWidth=1)
-
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C8F0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
-
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00C8F0&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Engenheiro+de+Dados;Especialista+em+Pipelines+%26+Analytics;Data+AI+Engineer;+10%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
 </div>
 
 ## 👋 Sobre mim
