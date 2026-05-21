@@ -75,21 +75,6 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 📜 &nbsp;Formação Python para Data Science (8-Course Series)  
 📜 &nbsp;Formação Power BI (8-Course Series)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LucasBitte&show_icons=true&theme=dark&bg_color=0A1628&title_color=1E6FD9&icon_color=00C8F0&text_color=B8D4F8&border_color=1E3A5F&count_private=true" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitte&layout=compact&theme=dark&bg_color=0A1628&title_color=1E6FD9&text_color=B8D4F8&border_color=1E3A5F" />
-
-</div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=LucasBitte&color=1E6FD9&style=flat-square&label=profile+views)
 
 </div>
 
