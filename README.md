@@ -33,48 +33,55 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 
 ## Stack Técnico
 
-<table width="100%">
-  <tr>
-    <td width="22%" valign="top"><b>Linguagens</b></td>
-    <td valign="top">
-      ![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00C8F0)
-      ![SQL](https://img.shields.io/badge/SQL-0A1628?style=flat-square&logo=postgresql&logoColor=336791)
-      ![DAX](https://img.shields.io/badge/DAX-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-      ![M Power Query](https://img.shields.io/badge/M%20Power%20Query-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Engenharia de Dados</b></td>
-    <td valign="top">
-      ![dbt](https://img.shields.io/badge/dbt-0A1628?style=flat-square&logo=dbt&logoColor=FF694B)
-      ![Airflow](https://img.shields.io/badge/Apache%20Airflow-0A1628?style=flat-square&logo=apacheairflow&logoColor=017CEE)
-      ![APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-0A1628?style=flat-square&logo=fastapi&logoColor=009688)
-      ![Automação](https://img.shields.io/badge/Automação%20de%20Pipelines-0A1628?style=flat-square&logo=githubactions&logoColor=2088FF)
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>BI & Visualização</b></td>
-    <td valign="top">
-      ![Power BI](https://img.shields.io/badge/Power%20BI-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
-      ![Streamlit](https://img.shields.io/badge/Streamlit-0A1628?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-      ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0A1628?style=flat-square&logo=looker&logoColor=4285F4)
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Cloud & Infra</b></td>
-    <td valign="top">
-      ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=flat-square&logo=microsoft&logoColor=00C8F0)
-      ![AWS](https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-      ![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=2496ED)
-      ![Git](https://img.shields.io/badge/Git%2FGitHub-0A1628?style=flat-square&logo=github&logoColor=ffffff)
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Metodologias</b></td>
-    <td valign="top">
-      ![Agile](https://img.shields.io/badge/Agile%20Scrum%2FKanban-0A1628?style=flat-square&logo=jira&logoColor=0052CC)
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" valign="top">
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00C8F0)<br/>
+![SQL](https://img.shields.io/badge/SQL-0A1628?style=flat-square&logo=postgresql&logoColor=336791)<br/>
+![DAX](https://img.shields.io/badge/DAX-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)<br/>
+![M Power Query](https://img.shields.io/badge/M%20Power%20Query-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)
+
+</td>
+<td align="center" valign="top">
+
+**Engenharia de Dados**
+
+![dbt](https://img.shields.io/badge/dbt-0A1628?style=flat-square&logo=dbt&logoColor=FF694B)<br/>
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-0A1628?style=flat-square&logo=apacheairflow&logoColor=017CEE)<br/>
+![APIs](https://img.shields.io/badge/Ingestão%20de%20APIs-0A1628?style=flat-square&logo=fastapi&logoColor=009688)<br/>
+![Automação](https://img.shields.io/badge/Automação%20de%20Pipelines-0A1628?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+</td>
+<td align="center" valign="top">
+
+**BI & Visualização**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-0A1628?style=flat-square&logo=powerbi&logoColor=F2C811)<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-0A1628?style=flat-square&logo=streamlit&logoColor=FF4B4B)<br/>
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0A1628?style=flat-square&logo=looker&logoColor=4285F4)
+
+</td>
+<td align="center" valign="top">
+
+**Cloud & Infra**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0A1628?style=flat-square&logo=microsoft&logoColor=00C8F0)<br/>
+![AWS](https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonwebservices&logoColor=FF9900)<br/>
+![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=2496ED)<br/>
+![Git](https://img.shields.io/badge/Git%2FGitHub-0A1628?style=flat-square&logo=github&logoColor=ffffff)
+
+</td>
+<td align="center" valign="top">
+
+**Metodologias**
+
+![Agile](https://img.shields.io/badge/Agile%20Scrum%2FKanban-0A1628?style=flat-square&logo=jira&logoColor=0052CC)
+
+</td>
+</tr>
 </table>
 
 ---
