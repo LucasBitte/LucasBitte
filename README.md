@@ -32,6 +32,18 @@ Sou **Data AI Engineer**, um profissional com **+10 anos de experiência prátic
 
 <br/>
 
+## 🎓 Formação & Certificações
+
+- 🎓 **Tecnólogo em Ciência de Dados** · *FIAP* (`2025 – 2026`)
+- 📜 **Data Engineering Professional Certificate** · *DeepLearning.AI (4-Course Series) on AWS*
+- 📜 **Google Advanced Data Analytics Professional Certificate** · *(7-Course Series)*
+- 📜 **Formação Python para Data Science** · *(8-Course Series)*
+- 📜 **Formação Power BI** · *(8-Course Series)*
+
+<br/>
+
+<br/>
+
 ## 🚀 Projetos em Destaque
 
 <details open>
@@ -85,15 +97,3 @@ Solução de AIOps para antecipação de incidentes operacionais com análise de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 
 </div>
-
-<br/>
-
-## 🎓 Formação & Certificações
-
-- 🎓 **Tecnólogo em Ciência de Dados** · *FIAP* (`2025 – 2026`)
-- 📜 **Data Engineering Professional Certificate** · *DeepLearning.AI (4-Course Series) on AWS*
-- 📜 **Google Advanced Data Analytics Professional Certificate** · *(7-Course Series)*
-- 📜 **Formação Python para Data Science** · *(8-Course Series)*
-- 📜 **Formação Power BI** · *(8-Course Series)*
-
-<br/>
